@@ -1,2 +1,3 @@
 # Dalle Images
- Images that I've encoutnered through Dalle
+
+ Images that I've encountered through Dalle
